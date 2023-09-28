@@ -18,6 +18,9 @@ This is a simple BMI (Body Mass Index) calculator project that allows users to c
 
 ```bash
 git clone https://github.com/yourusername/bmi-calculator.git
+```
 
 
 ## Screenshots
+![BMI Calculator](https://github.com/Megalilde/BMI-Calcolator-flutter/blob/master/imagesReadme/Screenshot_1695919129.png)
+![BMI Calculator](https://github.com/Megalilde/BMI-Calcolator-flutter/blob/master/imagesReadme/Screenshot_1695919129.png)
