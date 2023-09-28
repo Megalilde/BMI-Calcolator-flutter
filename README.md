@@ -17,10 +17,10 @@ This is a simple BMI (Body Mass Index) calculator project that allows users to c
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/bmi-calculator.git
+git clone https://github.com/Megalilde/BMI-Calcolator-flutter.git
 ```
 
 
 ## Screenshots
-![BMI Calculator](https://github.com/Megalilde/BMI-Calcolator-flutter/blob/master/imagesReadme/Screenshot_1695919129.png)
-![BMI Calculator](https://github.com/Megalilde/BMI-Calcolator-flutter/blob/master/imagesReadme/Screenshot_1695919129.png)
+![BMI Calculator](<img src="https://github.com/Megalilde/BMI-Calcolator-flutter/raw/master/imagesReadme/Screenshot_1695919129.png" width="400" height="300">)
+![BMI Calculator](<img src="https://github.com/Megalilde/BMI-Calcolator-flutter/blob/master/imagesReadme/Screenshot_1695919152.png" width="400" height="300">)
