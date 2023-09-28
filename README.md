@@ -22,5 +22,5 @@ git clone https://github.com/Megalilde/BMI-Calcolator-flutter.git
 
 
 ## Screenshots
-![BMI Calculator](<img src="https://github.com/Megalilde/BMI-Calcolator-flutter/raw/master/imagesReadme/Screenshot_1695919129.png" width="400" height="300">)
-![BMI Calculator](<img src="https://github.com/Megalilde/BMI-Calcolator-flutter/blob/master/imagesReadme/Screenshot_1695919152.png" width="400" height="300">)
+<img src="https://github.com/Megalilde/BMI-Calcolator-flutter/raw/master/imagesReadme/Screenshot_1695919129.png" width="300" height="500" />
+<img src="https://github.com/Megalilde/BMI-Calcolator-flutter/blob/master/imagesReadme/Screenshot_1695919152.png" width="300" height="500" />
